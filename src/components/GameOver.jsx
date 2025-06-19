@@ -1,3 +1,5 @@
+import './GameOver.css'
+
 const GameOver = ({retry}) => {
   return (
     <div>
